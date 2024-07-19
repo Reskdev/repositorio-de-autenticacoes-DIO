@@ -1,2 +1,3 @@
 # repositorio-de-autenticacoes-DIO
-repositório de teste de autenticações teste 1
+autenticação via nome de usuário e senha [x]
+autenticação via token [x]
